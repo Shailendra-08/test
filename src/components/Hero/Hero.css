@@ -1,0 +1,56 @@
+.hero-section {
+    padding:  3rem;
+    background-image: url('../../assets/Group.png'); 
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+    color: white;
+    text-align: center;
+    height: 500px;
+    
+  }
+  .hero-content {
+    text-align: center;
+    color: white;
+    z-index: 1; /* Ensures the content stays on top of the image */
+  }
+  
+  .hero-content h1 {
+    font-size: 48px;
+    font-family: Montserrat;
+    font-weight: 500;
+    margin-top: 10rem;
+    margin-bottom: 30px;
+  }
+  
+  .join-now-btn {
+    background-color: #18A0FB;
+    /* background: #18A0FB; */
+
+    color: white;
+    padding: 15px 30px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .join-now-btn:hover {
+    background-color: #0056b3;
+  }
+  /* scott-graham-5fNmWej4tAA-unsplash 1 */
+
+
+
+/* background: url(scott-graham-5fNmWej4tAA-unsplash.jpg); */
+/* The largest community of photo enthusiasts
+
+Hero H1
+*/
+/* 
+position: absolute;
+width: 1392px;
+height: 80px;
+left: 144px;
+top: 331px; */
+
